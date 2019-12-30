@@ -1,0 +1,131 @@
+/*====== RESET ======*/
+* {margin: 0; padding: 0; font-size: 100%;  box-sizing: border-box; 
+font-family: 'Lato', sans-serif;}
+body {width: 100%; height: auto; background: #000; display: flex; justify-content: center; flex-direction: column; overflow: auto; }
+img {max-width: 100%;}
+a { text-decoration: none; }
+
+
+.contaner-titulo {
+	width: 90%;
+}
+
+.titulo {
+	width: 90%;
+	margin-top: 2%;
+}
+
+.titulo h1 {
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 3em;
+	text-align: center;
+	color: #FACC2E;
+}
+
+.contaner-contato {
+	width: 90%;
+	display: flex;
+	justify-content: center;	
+}
+
+.contato {
+	margin: 4%;
+	margin-top: 0;
+}
+.contato i {
+	font-size: 1em;
+	color: #fff;
+	
+}
+.contato p {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 1em;
+	padding-top: 2%;
+	color: #fff;
+}
+
+.contaner-cartao {
+	width: 90%;
+}
+
+.cartao  {
+	width: 100%;
+	margin-top: 5%;
+	font-size: 1em;
+	border: 2px solid #FF0040;
+}
+
+.cartao p {
+	padding: 2%;
+	font-family: 'Bree Serif', serif;
+	color: #fff;
+
+}
+
+.contaner-produto {
+	width: 90%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+.produto  {
+	width: 90%;
+}
+
+.produto h2 {
+	color: #FFf;
+	font-size: 1.5em;
+	padding: 3%;
+	font-family: 'Black Ops One', cursive;
+
+}
+
+.produto img {
+	width: 100%;
+	
+	border-radius: 5%;
+
+}
+.texto-produto {
+	width: 90%;
+	background-color: #000;
+	padding: 3%;
+	border-radius: 3%;
+	color: #fff;
+
+}
+
+.texto-produto h2 {
+	color: #fff;
+	font-size: 1.5em;
+}
+
+.comprar {
+	width: 90%;
+	background-color: #01DF01;
+	color: #fff;
+	padding: 3%;
+
+}
+
+
+.fim-da-pagina {
+	background-color: #000;
+	margin-top: 5%;
+}
+
+.logo-fim img {
+	width: 30%;
+	margin-top: 5%;
+}
+
+.icons-fim {
+	color: #fff;
+	padding: 3%;
+}
+
+.icons-fim i {
+	padding: 0 3% 0 3%;
+	color: #fFF;
+	font-size: 1.5em;
+
+}
